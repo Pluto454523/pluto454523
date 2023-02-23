@@ -1,4 +1,4 @@
-![image](https://github.com/Pluto454523/pluto454523/blob/main/loop.gif)
+![image](https://github.com/Pluto454523/pluto454523/blob/main/image.gif)
 
 <!--
 **Pluto454523/pluto454523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
